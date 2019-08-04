@@ -1,6 +1,6 @@
 # Blog
 Node Blog
-![alt text](https://imgur.com/uTk9nax)
+![Screenshot](Blog.png)
 
 Blog developed using Node,and mysql database.
 
