@@ -1,0 +1,6 @@
+[2019-08-04 13:15:56.503] [main] [info] update#setState idle
+[2019-08-04 13:15:57.671] [main] [info] [storage] migrating global storage from localStorage into SQLite
+[2019-08-04 13:15:57.672] [main] [info] [storage] migrated global storage
+[2019-08-04 13:16:26.510] [main] [info] update#setState checking for updates
+[2019-08-04 13:16:36.522] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+[2019-08-04 13:16:36.522] [main] [info] update#setState idle

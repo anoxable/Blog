@@ -1,0 +1,23 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+img{
+    height: 100px;
+    width: 50px;
+}
+
+article{
+    text-align: start;
+    color: rgb(44, 44, 44);
+    font-family: 'Montserrat', sans-serif;
+    width: 80%;
+    margin: 0 auto;
+    line-height: 1.6em; 
+}
+p:nth-child(3){
+    text-align: end;
+    font-size: 0.7em;
+    color: lightslategray;
+}

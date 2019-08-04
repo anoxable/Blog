@@ -1,0 +1,3 @@
+[2019-05-15 20:49:51.893] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-05-15 20:50:01.858] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 97% of 405.233ms, saved PROFILE here: '/tmp/exthost-549290.cpuprofile' [{"id":"program","total":5422,"percentage":1},{"id":"ritwickdey.LiveServer","total":395081,"percentage":97},{"id":"self","total":1412,"percentage":0}]
+[2019-05-15 20:51:36.861] [renderer1] [info] no standard startup: not running latest version

@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Admin Login</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet" type="text/css">
+    
+    </head>
+    <body>
+        <img src="/assets/asset3.png" alt="logo">
+        <h1>Blog</h1>
+        <% for(let i = 0; i < posts.length; i++) { %>
+            <article>
+                <h1><%=posts[i].title %></h1>
+                <p><%= posts[i].body %></p>
+                <p><%= posts[i].postDate %></p>
+            </article>
+        <% } %>
+        <form action="addpost" method="POST">
+            <textarea name="title"></textarea>
+            <textarea name="body"></textarea>
+            <input type="submit" value="Add Post" />
+        </form>
+    </body>
+</html>

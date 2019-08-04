@@ -1,0 +1,30 @@
+[2019-08-04 13:16:02.121] [exthost] [info] extension host started
+[2019-08-04 13:16:02.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:16:02.174] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-04 13:16:02.216] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:16:02.216] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-04 13:16:02.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:16:02.267] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-04 13:16:02.491] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:16:02.491] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-04 13:16:02.527] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:16:02.527] [exthost] [info] ExtensionService#loadCommonJSModule /home/nemanja/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-08-04 13:16:03.563] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:16:03.563] [exthost] [info] ExtensionService#loadCommonJSModule /home/nemanja/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-08-04 13:16:05.506] [exthost] [info] eager extensions activated
+[2019-08-04 13:17:32.407] [exthost] [info] extension host started
+[2019-08-04 13:17:32.433] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:17:32.433] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-04 13:17:32.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:17:32.439] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-04 13:17:32.471] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:17:32.471] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-04 13:17:32.657] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:17:32.657] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-04 13:17:32.666] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:17:32.666] [exthost] [info] ExtensionService#loadCommonJSModule /home/nemanja/.vscode/extensions/esbenp.prettier-vscode-1.9.0/out/src/extension
+[2019-08-04 13:17:32.944] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-08-04 13:17:32.944] [exthost] [info] ExtensionService#loadCommonJSModule /home/nemanja/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-08-04 13:17:33.394] [exthost] [info] eager extensions activated
+[2019-08-04 13:18:00.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-08-04 13:18:00.655] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
