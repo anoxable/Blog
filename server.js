@@ -7,8 +7,8 @@ var bodyParser = require('body-parser');
 const db = mysql.createConnection({
     host:'localhost',
     user:'anox',
-    password:'albatros',
-    database:'blog'
+    password:
+    database:
 });
 app.use(express.static(__dirname + '/public'));
 app.use(bodyParser.json())
